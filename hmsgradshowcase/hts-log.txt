@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Jun 2022 11:17:09 at https://hmsgradshowcase.np.edu.sg +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hmsgradshowcase.np.edu.sg -O1 "C:\My Web Sites\hmsgradshowcase" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:18	Error: 	"Not Found" (404) at link https://hmsgradshowcase.np.edu.sg/ng-hms.theme/src/scss/circles.65812bf4.svg (from https://hmsgradshowcase.np.edu.sg/ng-hms.theme/src/scss/index.b10d73a7.css)
+11:18:18	Error: 	"Not Found" (404) at link https://hmsgradshowcase.np.edu.sg/ng-hms.theme/src/scss/black-small.c93bef3e.svg (from https://hmsgradshowcase.np.edu.sg/ng-hms.theme/src/scss/index.b10d73a7.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 13 seconds : 1051 links scanned, 1048 files written (86985388 bytes overall) [87250189 bytes received at 157776 bytes/sec], 184431 bytes transferred using HTTP compression in 10 files, ratio 35%, 1.0 requests per connection
+(2 errors, 0 warnings, 0 messages)

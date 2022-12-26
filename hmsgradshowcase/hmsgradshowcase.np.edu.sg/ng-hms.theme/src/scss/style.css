@@ -1,0 +1,27 @@
+﻿.courses-list {
+    padding-top: 140px;
+}
+
+.breadcrumb{
+    padding-top: 120px;
+}
+.feedbacks .circle {
+    display: block;
+}
+
+.feedbacks .home-feedbacks-details .title {
+    z-index: 999;
+}
+.breadcrumb ul li.bc_listItem:after {
+    content: "";
+}
+.feedbacks .home-feedbacks-details .button {
+    position: relative;
+}
+.courses-list .courses-grid .filter-item .grid-item:first-child .image img {
+    height: 300px;
+}
+
+.courses-list .courses-grid .filter-item .grid-item .image img {
+    height: 220px;
+}
